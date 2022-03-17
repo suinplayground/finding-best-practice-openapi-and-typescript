@@ -1,0 +1,6 @@
+{
+  "extends": "@suin/tsconfig/tsconfig.json",
+  "compilerOptions": {
+    "lib": ["esnext", "dom"],
+  }
+}
